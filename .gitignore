@@ -1,0 +1,13 @@
+
+back/venv/
+
+
+fronters/node_modules/
+
+
+*.log
+*.env
+*.pyc
+__pycache__/
+.DS_Store
+.idea/
